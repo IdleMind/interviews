@@ -1,9 +1,9 @@
 interviews
 ==========
 
-all things for interviews
+all things needed for interviews
 
-links:
+links
 ==========
 
 1. https://github.com/andreis/interview
