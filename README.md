@@ -11,5 +11,5 @@ links
 
 Java
 ==========
-1. JavaÄÚ´æÄ£ĞÍ http://jiangzhengjun.iteye.com/blog/652532
+1. Java memory model(JMM) http://jiangzhengjun.iteye.com/blog/652532
 
