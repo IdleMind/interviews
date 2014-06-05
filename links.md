@@ -23,3 +23,4 @@ Java
 C++
 ==========
 0. [C++ book list](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list?rq=1)
+1. [Compiler, Assembler, Linker and Loader](http://www.tenouk.com/ModuleW.html)
