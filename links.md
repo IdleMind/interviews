@@ -17,7 +17,8 @@
 1. [Java memory model (JMM)](http://jiangzhengjun.iteye.com/blog/652532)
 2. [IO models in Java](http://2014.54chen.com/blog/2014/03/12/io-demystified/)
 
-##C++
+##C & C++
 
 0. [C++ book list](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list?rq=1)
 1. [Compiler, Assembler, Linker and Loader](http://www.tenouk.com/ModuleW.html)
+2. [C FAQs](http://c-faq.com/)
