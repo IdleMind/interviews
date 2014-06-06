@@ -9,8 +9,9 @@
 
 0. [geeksforgeeks](http://www.geeksforgeeks.org/)
 1. [careercup](http://www.careercup.com/)
-2. [algorithm tutorial on TopCoder](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index)
-3. [July的博客](http://blog.csdn.net/v_JULY_v)
+2. [leetcode](http://leetcode.com/)
+3. [algorithm tutorial on TopCoder](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index)
+4. [July的博客](http://blog.csdn.net/v_JULY_v)
 
 ##Java
 
