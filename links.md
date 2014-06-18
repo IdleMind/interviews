@@ -13,6 +13,7 @@
 2. [leetcode](http://leetcode.com/)
 3. [algorithm tutorial on TopCoder](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index)
 4. [July的博客](http://blog.csdn.net/v_JULY_v)
+5. [Programmer ]
 
 ###Java
 
@@ -28,6 +29,7 @@
 3. [C FAQs](http://c-faq.com/)
 4. [C++ FAQs](https://isocpp.org/faq)
 5. [C++工程实践](http://cloud.github.com/downloads/chenshuo/documents/CppPractice.pdf)
+6. [C/CPP type casting](http://www.tenouk.com/Module22.html)
 
 ###Python
 
