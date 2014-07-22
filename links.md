@@ -37,3 +37,6 @@
 
 ###Computer Science
 0. [字符编码](http://www.imkevinyang.com/2009/02/%E5%AD%97%E7%AC%A6%E7%BC%96%E8%A7%A3%E7%A0%81%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88ascii%EF%BC%8Cansi%EF%BC%8Cunicode%EF%BC%8Cutf-8%E5%8C%BA%E5%88%AB%EF%BC%89.html)
+
+###Operating System
+0. [OS课程(PDF课件内容很好)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
