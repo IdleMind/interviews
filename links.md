@@ -20,6 +20,7 @@
 1. [Java memory model (JMM)](http://jiangzhengjun.iteye.com/blog/652532)
 2. [IO models in Java](http://2014.54chen.com/blog/2014/03/12/io-demystified/)
 3. [Java Practices](http://www.javapractices.com/home/HomeAction.do;jsessionid=DBCC141936ACA203841A86DF6300940A)
+4. [ConcurrentHashMap](http://www.ibm.com/developerworks/cn/java/java-lo-concurrenthashmap/)
 
 ###C & C++
 
@@ -30,6 +31,7 @@
 4. [C++ FAQs](https://isocpp.org/faq)
 5. [C++工程实践](http://cloud.github.com/downloads/chenshuo/documents/CppPractice.pdf)
 6. [C/CPP type casting](http://www.tenouk.com/Module22.html)
+7. A tour of C++
 
 ###Python
 
@@ -39,4 +41,4 @@
 0. [字符编码](http://www.imkevinyang.com/2009/02/%E5%AD%97%E7%AC%A6%E7%BC%96%E8%A7%A3%E7%A0%81%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88ascii%EF%BC%8Cansi%EF%BC%8Cunicode%EF%BC%8Cutf-8%E5%8C%BA%E5%88%AB%EF%BC%89.html)
 
 ###Operating System
-0. [OS课程(PDF课件内容很好)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+0. [Operating System](http://pages.cs.wisc.edu/~remzi/OSTEP/)
