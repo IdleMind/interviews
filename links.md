@@ -6,6 +6,7 @@
 3. [how-to-interview-a-person-for-two-years](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
 4. [interview](https://github.com/andreis/interview)
 5. [面试准备材料](http://blog.csdn.net/demon24/article/details/8470804)
+6. [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 
 ###Algorithm & Data Structure
 
