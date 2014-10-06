@@ -14,8 +14,8 @@
 1. [careercup](http://www.careercup.com/)
 2. [leetcode](http://leetcode.com/)
 3. [algorithm tutorial on TopCoder](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index)
-4. [July的博客](http://blog.csdn.net/v_JULY_v)
-5. [Programmer ]
+4. [Skiena's Algorithms Lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+5. [July的博客](http://blog.csdn.net/v_JULY_v)
 
 ###Java
 
