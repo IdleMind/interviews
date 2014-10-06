@@ -7,6 +7,7 @@
 4. [interview](https://github.com/andreis/interview)
 5. [面试准备材料](http://blog.csdn.net/demon24/article/details/8470804)
 6. [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
+7. [Things about Interview Questions](http://igor.moomers.org/interview-questions/)
 
 ###Algorithm & Data Structure
 
