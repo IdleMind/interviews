@@ -19,6 +19,9 @@
 4. [Skiena's Algorithms Lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 5. [July的博客](http://blog.csdn.net/v_JULY_v)
 
+###Interview Tutorials
+0. [System design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+1. [Coding interview](http://www.palantir.com/2011/10/the-coding-interview/)
 ###Java
 
 1. [Java memory model (JMM)](http://jiangzhengjun.iteye.com/blog/652532)
