@@ -1,10 +1,10 @@
-##interviews
+#interviews
 
-*materials for interviews*
+materials for technical interviews
 
-###links to useful materials
+##Links to useful materials
 
-Links to useful materials are listed in *links.md*
+Links to useful materials are listed in `links.md`.
 
 
 
