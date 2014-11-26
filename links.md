@@ -4,7 +4,7 @@
 1. [Google interview process](http://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
 2. [five essential phone-screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 3. [how-to-interview-a-person-for-two-years `中文`](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
-4. [interview](https://github.com/andreis/interview)
+4. [interview](https://github.com/andreis/interview)`another similar project on Github`
 5. [面试准备材料 `中文`](http://blog.csdn.net/demon24/article/details/8470804)
 6. [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 7. [Things about Interview Questions](http://igor.moomers.org/interview-questions/)
