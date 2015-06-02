@@ -3,13 +3,13 @@
 0. [get that job at google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) 
 1. [Google interview process](http://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
 2. [five essential phone-screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-3. [how-to-interview-a-person-for-two-years `中文`](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
+3. [how-to-interview-a-person-for-two-years ](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/) `in Chinese`
 4. [interview](https://github.com/andreis/interview)`another similar project on Github`
-5. [面试准备材料 `中文`](http://blog.csdn.net/demon24/article/details/8470804)
+5. [面试准备材料](http://blog.csdn.net/demon24/article/details/8470804) `in Chinese`
 6. [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 7. [Things about Interview Questions](http://igor.moomers.org/interview-questions/)
 8. [Google Intership Interviews](https://ecarmi.org/writing/google-internship/)
-9. [Lean Technical Resume](http://lucida.me/blog/lean-technical-resume/) *in Chinese*
+9. [Lean Technical Resume](http://lucida.me/blog/lean-technical-resume/) `in Chinese`
 
 ###Algorithm & Data Structure
 
@@ -18,8 +18,8 @@
 2. [leetcode](http://leetcode.com/)
 3. [algorithm tutorial on TopCoder](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index)
 4. [Skiena's Algorithms Lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
-5. [July的博客](http://blog.csdn.net/v_JULY_v)
-6. [Whiteboard Coding](http://lucida.me/blog/whiteboard-coding-demystified/) *in Chinese*
+5. [July的博客](http://blog.csdn.net/v_JULY_v) `in Chinese`
+6. [Whiteboard Coding](http://lucida.me/blog/whiteboard-coding-demystified/) `in Chinese`
 
 ###Interview Tutorials
 0. [System design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
