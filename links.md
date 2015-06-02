@@ -9,6 +9,7 @@
 6. [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 7. [Things about Interview Questions](http://igor.moomers.org/interview-questions/)
 8. [Google Intership Interviews](https://ecarmi.org/writing/google-internship/)
+9. [Lean Technical Resume](http://lucida.me/blog/lean-technical-resume/) *in Chinese*
 
 ###Algorithm & Data Structure
 
@@ -18,6 +19,7 @@
 3. [algorithm tutorial on TopCoder](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index)
 4. [Skiena's Algorithms Lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 5. [July的博客](http://blog.csdn.net/v_JULY_v)
+6. [Whiteboard Coding](http://lucida.me/blog/whiteboard-coding-demystified/) *in Chinese*
 
 ###Interview Tutorials
 0. [System design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
