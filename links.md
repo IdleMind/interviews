@@ -57,4 +57,4 @@
 
 ###Networking Programming
 0. [libev](http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod)
-1. [libuv](http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod)
+1. [libuv](http://nikhilm.github.io/uvbook/)
