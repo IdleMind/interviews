@@ -58,6 +58,7 @@
 ###Networking Programming
 0. [libev](http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod)
 1. [libuv](http://nikhilm.github.io/uvbook/)
+2. [libuv初探](http://blog.codingnow.com/2012/01/libuv.html)
 
 ###Git
 0. [Git book](http://gitbook.liuhui998.com/index.html)
