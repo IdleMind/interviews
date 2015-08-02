@@ -63,6 +63,7 @@
 ###Coroutine
 0. [Coroutine in Python](http://www.dabeaz.com/coroutines/Coroutines.pdf)
 1. [Boost Coroutine](http://www.crystalclearsoftware.com/soc/coroutine/)
+2. http://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/
 
 ###Git
 0. [Git book](http://gitbook.liuhui998.com/index.html)
