@@ -41,6 +41,7 @@
 4. [C++ FAQs](https://isocpp.org/faq)
 5. [C++工程实践](http://cloud.github.com/downloads/chenshuo/documents/CppPractice.pdf)
 6. [C/CPP type casting](http://www.tenouk.com/Module22.html)
+7. [C++依赖管理](http://docs.biicode.com/c++/gettingstarted.html)
 
 ###Python
 
