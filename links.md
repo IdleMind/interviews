@@ -42,6 +42,7 @@
 5. [C++工程实践](http://cloud.github.com/downloads/chenshuo/documents/CppPractice.pdf)
 6. [C/CPP type casting](http://www.tenouk.com/Module22.html)
 7. [C++依赖管理](http://docs.biicode.com/c++/gettingstarted.html)
+8. [const void * vs void *](http://stackoverflow.com/questions/5547131/c-question-const-void-vs-void)
 
 ###Python
 
