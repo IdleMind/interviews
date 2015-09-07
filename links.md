@@ -47,8 +47,8 @@
 10. [SSO](http://stackoverflow.com/questions/10315041/meaning-of-acronym-sso-in-the-context-of-stdstring)
 11. [string in depth](http://www.cs.cmu.edu/~gregjor/project/eckelbook/volume2/Chap04.htm)
 12. [prolog & epilog](https://msdn.microsoft.com/zh-cn/library/vstudio/t2wt9aez(v=vs.110).aspx)
-###Python
 
+###Python
 0. [Python FAQs](https://docs.python.org/2/faq/)
 
 ###Computer Science
