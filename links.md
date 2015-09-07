@@ -43,6 +43,9 @@
 6. [C/CPP type casting](http://www.tenouk.com/Module22.html)
 7. [C++依赖管理](http://docs.biicode.com/c++/gettingstarted.html)
 8. [const void * vs void *](http://stackoverflow.com/questions/5547131/c-question-const-void-vs-void)
+9. [&string vs &string[0]](http://stackoverflow.com/questions/21355731/different-memory-address-for-string-and-string0)
+10. [SSO](http://stackoverflow.com/questions/10315041/meaning-of-acronym-sso-in-the-context-of-stdstring)
+11. [string in depth](http://www.cs.cmu.edu/~gregjor/project/eckelbook/volume2/Chap04.htm)
 
 ###Python
 
