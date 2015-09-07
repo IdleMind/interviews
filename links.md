@@ -79,3 +79,6 @@
 ###Concurrency & Parallel
 0. [Concurrency](http://queue.acm.org/listing.cfm?item_topic=Concurrency&qc_type=theme_list&filter=Concurrency&page_title=Concurrency&order=desc)
 1. [Parallel Programming in Depth](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2015.01.31a.pdf)
+
+###C++ Programming Toolchain
+0. [GDB](http://linuxtools-rst.readthedocs.org/zh_CN/latest/tool/gdb.html)
