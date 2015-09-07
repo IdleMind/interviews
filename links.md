@@ -76,5 +76,6 @@
 1. [Why Git Rebase](http://segmentfault.com/q/1010000000430041)
 2. [图解Git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 
-###Concurrency
+###Concurrency & Parallel
 0. [Concurrency](http://queue.acm.org/listing.cfm?item_topic=Concurrency&qc_type=theme_list&filter=Concurrency&page_title=Concurrency&order=desc)
+1. [Parallel Programming in Depth](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2015.01.31a.pdf)
