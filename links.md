@@ -65,6 +65,7 @@
 0. [libev](http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod)
 1. [libuv](http://nikhilm.github.io/uvbook/)
 2. [libuv初探](http://blog.codingnow.com/2012/01/libuv.html)
+3. [Protobuf](http://ju.outofmemory.cn/entry/90829)
 
 ###Coroutine
 0. [Coroutine in Python](http://www.dabeaz.com/coroutines/Coroutines.pdf)
