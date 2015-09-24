@@ -77,6 +77,7 @@
 0. [Git book](http://gitbook.liuhui998.com/index.html)
 1. [Why Git Rebase](http://segmentfault.com/q/1010000000430041)
 2. [图解Git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+3. [git every](https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html)
 
 ###Concurrency & Parallel
 0. [Concurrency](http://queue.acm.org/listing.cfm?item_topic=Concurrency&qc_type=theme_list&filter=Concurrency&page_title=Concurrency&order=desc)
