@@ -48,6 +48,8 @@
 11. [string in depth](http://www.cs.cmu.edu/~gregjor/project/eckelbook/volume2/Chap04.htm)
 12. [prolog & epilog](https://msdn.microsoft.com/zh-cn/library/vstudio/t2wt9aez(v=vs.110).aspx)
 13. [TCmalloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html)
+14. [Optimization C++](http://calcul.math.cnrs.fr/IMG/pdf/20120207-binet-opt-cxx.pdf)
+15. [Nameapce & main](http://stackoverflow.com/questions/3956678/main-in-namespace)
 
 ###Python
 0. [Python FAQs](https://docs.python.org/2/faq/)
