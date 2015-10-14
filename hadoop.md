@@ -9,3 +9,4 @@
 
 ###Tychyon
 1. [Tychyon talk at Satra 2015](http://www.tachyonnexus.com/downloads/Tachyon_2015-09-30_Strata.pdf)
+2. [Spark](https://www.dataquest.io/blog/spark-intro/)
