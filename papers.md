@@ -1,6 +1,10 @@
 1. [CAP](http://arxiv.org/pdf/1509.05393v2.pdf)
 2. [Paxos made simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 
+###Researchers
+1. [Remzi](http://pages.cs.wisc.edu/~remzi/)
+2. [Plank](http://web.eecs.utk.edu/~plank/)
+
 ###Systems
 0. [SOSP 2015](http://sigops.org/sosp/sosp15/current/index.html)
 1. [FS](http://www.pdl.cmu.edu/PDL-FTP/FS/CMU-PDL-13-102.pdf)
