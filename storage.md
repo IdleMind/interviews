@@ -5,3 +5,8 @@
 ###Storage Device
 1. [SSD](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf)
 
+###File System
+1. [Design and implementation of Log-structured File System](http://www.eecs.berkeley.edu/Pubs/TechRpts/1992/CSD-92-696.pdf)
+2. [Log-structured File System](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)
+
+

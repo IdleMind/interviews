@@ -7,3 +7,6 @@
 
 ###C++ 3rd library
 1. [Protobuf](https://developers.google.com/protocol-buffers/docs/reference/cpp/google.protobuf.message)
+
+###Optimazation
+1. [__builtin_expect](http://my.oschina.net/moooofly/blog/175019)
