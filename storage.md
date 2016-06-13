@@ -9,4 +9,5 @@
 1. [Design and implementation of Log-structured File System](http://www.eecs.berkeley.edu/Pubs/TechRpts/1992/CSD-92-696.pdf)
 2. [Log-structured File System](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)
 
-
+###Raft
+1. [Raft](https://raft.github.io)
