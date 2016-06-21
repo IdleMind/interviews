@@ -15,3 +15,5 @@ https://msdn.microsoft.com/en-us/library/zxt5ahzw(v=vs.110).aspx
 ###coroutine
 1. [boost.coroutine](http://www.boost.org/doc/libs/1_53_0/libs/coroutine/doc/html/coroutine/coroutine.html)
 2. [coroutines in C](http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+
+1. [false sharing](http://www.drdobbs.com/parallel/eliminate-false-sharing/217500206?pgno=1)
