@@ -7,3 +7,4 @@
 ## Presentations
 1. [HDFS: Past,Present,Future](https://events.static.linuxfound.org/sites/events/files/slides/HDFS2015_Past_present_future.pdf)
 2. [HBase: Theory and Practice of a Distributed Data Store](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.752&rep=rep1&type=pdf)
+3. [Understanding HDFS Recovery Process: Lease Recovery, Block Recovery, Pipeline Recovery](http://blog.cloudera.com/blog/2015/02/understanding-hdfs-recovery-processes-part-1/)
