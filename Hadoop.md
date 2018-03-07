@@ -1,5 +1,7 @@
 ## Wikis and Docs
 1. [Hadoop Wiki](https://wiki.apache.org/hadoop/)
+2. [Hadoop FileSystem APIs' semantics](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/filesystem/filesystem.html)
+3. [Hadoop FileSystem specifications](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/filesystem/index.html)
 
 ## Design Docs
 1. [HDFS Append/Flush](files.cnblogs.com/inuyasha1027/appendDesign3.pdf)
