@@ -4,3 +4,6 @@
 
 ## Articles
 1. [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
+
+## Erasure Coding
+1. [New Encoding Technique to Reform Erasure Code Data Overwrite](https://www.snia.org/sites/default/files/SDC/2017/presentations/Erasure_Coding/Liu_Xiaodong_New_Encoding_Technique_to_Reform_Erasure_Code_Data_Overwrite.pdf)
