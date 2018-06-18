@@ -8,3 +8,6 @@
 
 ### Performance Bugs
 1. [“Performance bugs” and How to Find Them](https://www.snia.org/sites/default/files/SDC/2017/presentations/etc/Simonsen_Per_“Performance_Bugs”_and_How_to_Find_Them.pdf)
+
+### Best Practices
+1. [Development Techniques and Tips for Maximizing NVMe Performance](https://www.snia.org/sites/default/files/SDC/2017/presentations/NVMe/Friend_Tom_Development_Techniques_and_Tips_for_Maximizing_NVMe_Performance.pdf)
