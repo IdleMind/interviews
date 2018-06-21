@@ -11,3 +11,4 @@
 
 ### Best Practices
 1. [Development Techniques and Tips for Maximizing NVMe Performance](https://www.snia.org/sites/default/files/SDC/2017/presentations/NVMe/Friend_Tom_Development_Techniques_and_Tips_for_Maximizing_NVMe_Performance.pdf)
+2. [Coroutines and fibers](https://medium.com/software-development-2/coroutines-and-fibers-why-and-when-5798f08464fd)
