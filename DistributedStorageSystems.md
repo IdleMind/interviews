@@ -5,11 +5,12 @@
 ## LSM-trees
 1. [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 
-## Presentations
+## Single-machine Storage Engine
 1. [GOODBYE, XFS: BUILDING A NEW, FASTER STORAGE BACKEND FOR CEPH](https://www.snia.org/sites/default/files/SDC/2017/presentations/General_Session/Weil_Sage%20_Red_Hat_Goodbye_XFS_Building_a_new_faster_storage_backend_for_Ceph.pdf)
+
+## Erasure Coding
+1. [New Encoding Technique to Reform Erasure Code Data Overwrite](https://www.snia.org/sites/default/files/SDC/2017/presentations/Erasure_Coding/Liu_Xiaodong_New_Encoding_Technique_to_Reform_Erasure_Code_Data_Overwrite.pdf)
 
 ## Articles
 1. [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 
-## Erasure Coding
-1. [New Encoding Technique to Reform Erasure Code Data Overwrite](https://www.snia.org/sites/default/files/SDC/2017/presentations/Erasure_Coding/Liu_Xiaodong_New_Encoding_Technique_to_Reform_Erasure_Code_Data_Overwrite.pdf)
