@@ -4,6 +4,7 @@
 
 ## LSM-trees
 1. [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
+2. [LSM-trie: An LSM-tree-based Ultra-Large Key-Value Store for Small Data](https://www.usenix.org/system/files/conference/atc15/atc15-paper-wu.pdf)
 
 ## Single-machine Storage Engine
 1. [GOODBYE, XFS: BUILDING A NEW, FASTER STORAGE BACKEND FOR CEPH](https://www.snia.org/sites/default/files/SDC/2017/presentations/General_Session/Weil_Sage%20_Red_Hat_Goodbye_XFS_Building_a_new_faster_storage_backend_for_Ceph.pdf)
