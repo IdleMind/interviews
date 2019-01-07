@@ -3,3 +3,4 @@
 
 ## Curated list
 1. [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems)
+2. [awesome chaos engineering](https://github.com/dastergon/awesome-chaos-engineering)
