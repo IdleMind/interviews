@@ -1,6 +1,7 @@
 ## Cloud Storage
 1. [Azure Data Lake Store: A Hyperscale Distributed File Service for Big Data Analytics](http://delivery.acm.org/10.1145/3060000/3056100/p51-ramakrishnan.pdf?ip=106.11.34.18&id=3056100&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E329A65395BA50D6F&CFID=845285612&CFTOKEN=23374837&__acm__=1514425603_2c3e916e0f95d60d033c05fec5a60711)
 [Azure Data Lake Store Documents](https://docs.microsoft.com/en-in/azure/data-lake-store/)
+2. [Alluxio](https://www.alluxio.org/overview/architecture)
 
 ## LSM-trees
 1. [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
