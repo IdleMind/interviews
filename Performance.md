@@ -1,5 +1,6 @@
 ### Blogs
 1. [Brendan D. Gregg](http://www.brendangregg.com/index.html)
+2. [Thinking Methodically about Performance](https://queue.acm.org/detail.cfm?id=2413037)
 
 ### Profile
 1. [Java Flame Graphs](http://www.brendangregg.com/blog/2014-06-12/java-flame-graphs.html)
